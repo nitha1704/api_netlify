@@ -1,13 +1,5 @@
 [
   {
-    "CountryName": "Somaliland",
-    "CapitalName": "Hargeisa",
-    "CapitalLatitude": 9.55,
-    "CapitalLongitude": 44.05,
-    "CountryCode": "NULL",
-    "ContinentName": "Africa"
-  },
-  {
     "CountryName": "South Georgia and South Sandwich Islands",
     "CapitalName": "King Edward Point",
     "CapitalLatitude": -54.283333,
@@ -1918,14 +1910,6 @@
     "CapitalLongitude": 0,
     "CountryCode": "AQ",
     "ContinentName": "Antarctica"
-  },
-  {
-    "CountryName": "Northern Cyprus",
-    "CapitalName": "North Nicosia",
-    "CapitalLatitude": 35.183333,
-    "CapitalLongitude": 33.366667,
-    "CountryCode": "NULL",
-    "ContinentName": "Europe"
   },
   {
     "CountryName": "Hong Kong",
